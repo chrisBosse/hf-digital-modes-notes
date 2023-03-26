@@ -1,0 +1,17 @@
+APRS
+ARDOP
+callsign
+FREEDV
+FSKH105
+HRCC
+MFSK
+multipath
+NBEMS
+prowords
+RTTY
+sideloaded
+soundcard
+VARAC
+WSJT
+WSJT-X
+WSPR

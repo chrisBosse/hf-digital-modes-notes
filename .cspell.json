@@ -1,0 +1,23 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "dictionaries": ["ham-terms", "product-names", "names"],
+
+  "dictionaryDefinitions": [
+    {
+      "name": "ham-terms",
+      "path": "./.cspell/ham-terms.txt",
+      "addWords": true
+    },
+    {
+      "name": "product-names",
+      "path": "./.cspell/product-names.txt",
+      "addWords": true
+    },
+    {
+      "name": "names",
+      "path": "./.cspell/names.txt",
+      "addWords": true
+    }
+  ]
+}
