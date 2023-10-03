@@ -294,6 +294,8 @@ Resources describing most modes, like Sights and Sounds of Digital Modes <http:/
 - VARA HF - <https://rosmodem.wordpress.com/2017/09/03/vara-hf-modem/>
 - Winlink - <https://www.winlink.org/>
 - KM4ACK Build-a-Pi - <https://github.com/km4ack/pi-build>
+- [SIGIDWIKI.com: Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+  - Images and sounds of radio signals.
 - This presentation's [predecessor](https://github.com/chrisBosse/ham-digi-prez)
 
 ### YouTube Channels
